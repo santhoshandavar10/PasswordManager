@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
+
 # 🔒 Password Manager CLI Application
 
 A secure and simple **Password Manager** built with **Python** for managing your credentials directly from the **command line interface (CLI)**.  
